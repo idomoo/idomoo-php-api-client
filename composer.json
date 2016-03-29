@@ -1,16 +1,9 @@
 {
+  "name": "idomoo/idomoo-php-api-client",
   "repositories": [
     {
       "type": "package",
-      "package": {
-        "name": "idomoo/php-api-client",
-        "version": "dev-master",
-        "source": {
-          "url": "git://github.com/idomoo/idomoo-php-api-client.git",
-          "type": "git",
-          "reference": "master"
-        }
-      }
+      "url": "git://github.com/idomoo/idomoo-php-api-client.git"
     }
   ]
 }
